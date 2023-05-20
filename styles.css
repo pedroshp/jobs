@@ -69,7 +69,7 @@ nav {
 
 .memory img {
   width: 100%;
-  height: 280px;
+  height: 550px;
   object-fit: cover;
   border-radius: 8px;
   transition: transform 0.3s ease-in-out;
@@ -137,7 +137,7 @@ aside span {
   :root {
     font-size: 14px;
   }
-  
+
   body {
     grid-template-columns: 1fr;
     grid-template-rows: 0.2fr 0.8fr;
